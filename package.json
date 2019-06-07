@@ -1,0 +1,9 @@
+{
+  "name": "foo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-iconfont": "^10.0.0"
+  }
+}
